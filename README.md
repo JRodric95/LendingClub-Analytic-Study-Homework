@@ -1,7 +1,4 @@
-# LendingClub-Analytic-Study-Homework
-A Lending Club loan analysis...
-
-# 🏦 Lending Club - Análisis de Datos Historico
+# 🏦 Lending Club - Análisis de Datos Histórico
 
 # 📑 Introducción
 
@@ -14,7 +11,7 @@ La base de datos usada se extrajo directamente desde Kaggle:
 **Source:** Lending Club historical loan data (2007–2020)
 - [Dataset link](https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1)
 
-A continuación, se describirá las variables más importante de la base de datos usada para el análisis:
+A continuación, se describirán las variables más importantes de la base de datos usada para el análisis:
 
 | LoanStatNew | Descripción |
 |-------------|-------------|
