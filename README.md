@@ -43,3 +43,13 @@ A continuación, se describirán las variables más importantes de la base de da
 | **application_type** | Indica si la solicitud de préstamo es individual o conjunta (dos co-prestatarios). |
 | **mort_acc** | Número de cuentas hipotecarias. |
 | **pub_rec_bankruptcies** | Número de quiebras registradas en registros públicos. |
+
+# 🐍 Tecnologías usadas...
+
+Para el análisis descriptivo de la base de datos se usaron las siguientes tecnologías y librerías:
+
+* Python, en su versión *3.14.X*
+* Pandas
+* MatPlotLib
+* NumPy
+* Seaborn
